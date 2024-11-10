@@ -5,7 +5,8 @@
 #install twitter
 #import twitter
 #install tweepy 
-# i use for loop  for getting all text of jeff goins 
+# I extract different data like tweets like etc
+i use for loop  for getting all text of jeff goins 
 #i also use keywords of elonmusk hashtag with 300 limit 
 #again usef  for looop
 #specific task extracting tweets
